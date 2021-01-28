@@ -1,7 +1,12 @@
-# iSell
-## Программа складского и бухгалтерского учета
-### Общее описание
-Программа представляет из себя веб приложение серверно-клинтного типа. PHP+MYSQL+JS+HTML. Включает в себя полный цикл складского учета
-оприходование товара, продажа товара. Учет задолженностей, расходов, ведение банковского счета через клиент - банк. 
-Серверная архитектура позволяет пользователям работать как в локальной сети так и через интернет. Колличество пользователей ограничено
-только возможностями сервера и сети. В качестве клиента используется современный browser Chrome Firefox Edge.
+# ISELL
+ ## Warehouse and Accounting Program , used with OC v.3.0.3.3
+
+### General description
+
+The program represents the web application server-clint type.  Php + mysql + js + html.  Includes a full warehouse cycle
+
+Calling goods, selling goods.  Accounting for debts, expenses, bank account management through the client - bank.
+
+Server architecture allows users to work both on the local network and via the Internet.  The number of users is limited
+
+ Only server and network features.  As a client, modern Browser Chrome Firefox Edge is used.
